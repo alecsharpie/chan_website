@@ -1,0 +1,14 @@
+body{
+width: auto;
+}
+
+.sunflower-img{
+width:100%;
+margin: auto;
+width: 50%;
+}
+
+.name{
+text-align: center;
+border: 3px solid green;
+}
