@@ -3,12 +3,27 @@ width: auto;
 }
 
 .sunflower-img{
-width:100%;
+width:80%;
 margin: auto;
-width: 50%;
+position: relative;
+}
+
+.recipe-img{
+width: 100px;
+height: 100px;
 }
 
 .name{
 text-align: center;
-border: 3px solid green;
+position: relative;
+}
+
+.hey{
+text-align: center;
+}
+
+
+.turtle-img{
+margin: auto;
+width: 50%;
 }
